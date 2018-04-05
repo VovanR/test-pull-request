@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "yaspeller README.md",
+    "precommit": "npm test"
+  },
+  "dependencies": {
+    "husky": "^0.14.3",
+    "yaspeller": "^4.0.3"
+  }
+}
