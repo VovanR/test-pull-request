@@ -1,5 +1,5 @@
 # test-pull-request
-Pll request playground.
+Pull request playground.
 
 ![](preview.png)
 
