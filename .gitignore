@@ -1,3 +1,6 @@
+node_modules
+npm-debug.log
+
 # User-specific stuff:
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -58,5 +61,3 @@ fabric.properties
 
 # Sonarlint plugin
 .idea/sonarlint
-node_modules
-npm-debug.log
