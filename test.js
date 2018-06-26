@@ -12,7 +12,7 @@ export default class CookieConsent {
 		if (document.cookie.indexOf(this.cookieConfirmName + '=true') !== -1)
 			return false;
 
-		for(let i=0; i<this.consents.length; i++){
+		for (let i=0; i<this.consents.length; i++){
 			this.consents[i].classList.remove(this.consentHideClass);
 		}
 
